@@ -1,7 +1,7 @@
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
- * @flow test
+ * @flow test   test
  */
 
 import React, { Component } from 'react';
